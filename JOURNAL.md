@@ -41,3 +41,14 @@ The claw is a cat that picks up prizes with its paws. Servo #2 turns a screw-lik
 
 
 **Total time spent: ~1h**
+
+
+# June 21-22nd: CAD
+
+Here is a CAD model of all the pieces in the claw. CAD takes so loooooong :'(
+
+<img width="762" height="712" alt="image" src="https://github.com/user-attachments/assets/7def9383-81c6-4f43-a508-bea4c7813e20" />
+
+<img width="762" height="712" alt="image" src="https://github.com/user-attachments/assets/8d903aa1-070f-439c-99b5-cfd7831a44ca" />
+
+**Total time spent: ~6h**
