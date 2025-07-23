@@ -43,7 +43,7 @@ The claw is a cat that picks up prizes with its paws. Servo #2 turns a screw-lik
 **Total time spent: ~1h**
 
 
-# June 21-22nd: CAD
+# July 21-22nd: CAD
 
 Here is a CAD model of all the pieces in the claw. CAD takes so loooooong :'(
 
@@ -52,3 +52,26 @@ Here is a CAD model of all the pieces in the claw. CAD takes so loooooong :'(
 <img width="762" height="712" alt="image" src="https://github.com/user-attachments/assets/8d903aa1-070f-439c-99b5-cfd7831a44ca" />
 
 **Total time spent: ~6h**
+
+
+# July 22-23: Parts
+
+I picked out the parts I need for this and added links. 
+
+<img width="842" height="531" alt="image" src="https://github.com/user-attachments/assets/8dbe482c-4064-4a4b-b722-0abeaff87c3f" />
+
+**Total time spent: ~2.5h**
+
+
+# July 23: Wooden structure
+
+Here's how I'll cut the 4 wood pieces:
+
+<img width="265" height="265" alt="Untitled 38" src="https://github.com/user-attachments/assets/bc8be736-62d1-402b-b975-7f0dff2b7611" />
+
+The yellow and pink squares will be cut out in order to let prizes through. Diagrams of how these pieces will be attatched:
+
+<img width="265" height="265" alt="Untitled 36" src="https://github.com/user-attachments/assets/23c40ce3-d796-4728-b358-396c989e7aa5" />
+<img width="265" height="265" alt="Untitled 37" src="https://github.com/user-attachments/assets/b9b4dc10-bead-42f4-ab20-81440051951c" />
+
+**Total time spent: ~30m**
