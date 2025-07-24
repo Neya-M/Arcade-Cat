@@ -75,3 +75,12 @@ The yellow and pink squares will be cut out in order to let prizes through. Diag
 <img width="265" height="265" alt="Untitled 37" src="https://github.com/user-attachments/assets/b9b4dc10-bead-42f4-ab20-81440051951c" />
 
 **Total time spent: ~30m**
+
+
+# July 24: Firmware draft
+
+Finished the first draft of the firmware but I'll need to have the actual hardware to test it
+
+Screenshots of code are boring so no picture for this one :')
+
+**Total time spent: ~1h**
