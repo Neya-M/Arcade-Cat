@@ -7,6 +7,7 @@ BOM so far:
 - 2x Nema 17 Motors: https://a.co/d/hWB0tbz
 - 3x Motor Drivers (in case one burns out...): https://www.aliexpress.us/item/3256809236175649.html OR https://a.co/d/hs2fbK3
 - 1x Orpheus Pico: will get from SoM https://summer.hackclub.com/
+- 1x LED strip: https://www.aliexpress.us/item/2255800625645532.html
 
 Non electric parts:
 - 600mm of Aluminum Extrusion: https://a.co/d/1keCCWv
