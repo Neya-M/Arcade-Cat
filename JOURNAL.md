@@ -84,3 +84,21 @@ Finished the first draft of the firmware but I'll need to have the actual hardwa
 Screenshots of code are boring so no picture for this one :')
 
 **Total time spent: ~1h**
+
+
+# July 25 CAD fixes
+
+fixed up the cad model so you only need 360 degrees to move the claw.
+
+Before:
+
+<img width="842" height="582" alt="image" src="https://github.com/user-attachments/assets/7791237d-8df5-4b18-8603-2a4f65647909" />
+
+After:
+
+<img width="842" height="582" alt="image" src="https://github.com/user-attachments/assets/4e6981ba-5a73-4d69-be12-c54a1eacf8b2" />
+
+There's also a hole for the servo now.
+<img width="842" height="582" alt="image" src="https://github.com/user-attachments/assets/fd8a3f55-6946-4de9-af8d-2edc0763e56a" />
+
+**Total time spent: ~1h**
