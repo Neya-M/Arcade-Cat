@@ -14,3 +14,4 @@ Non electric parts:
 - 4x 24x24" Sheet of Plywood: get from local store
 - 4x 24x24" Acrylic: get from local store
 - Glue maybe?
+- Spool will be made out of cardboard
