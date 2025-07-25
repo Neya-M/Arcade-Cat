@@ -2,7 +2,8 @@
 title: "Claw Machine"
 author: "Neya"
 description: "Just a claw machine"
-created_at: "2025-06-4"
+created at: "2025-06-4"
+time spent overall: "9h, 45m"
 ---
 
 # June 4th: Sketched the motor system
