@@ -1,0 +1,11 @@
+Body is completely my design
+Back_leg and Front_leg are my design except the connector on top
+Screw1 is based on someone else's design
+Screw2 is not my design but was modified a lot by me (shorter, longer connectors, wider thread)
+Screw_case is not my design but was modified a bit by me (thicker connectors
+all above design parts that aren't mine were made by Ryan (Jules) on slack (who got banned but idk why)
+
+There's also the Gear and Rack, which were designed by Extrusionist on thingiverse:https://www.thingiverse.com/thing:3444515
+
+Firmware was by me with AI help
+Electronic parts/BOM, Wiring, JOURNAL, and README by me
