@@ -1,4 +1,4 @@
-# Claw Machine
+# Arcade Cat
 
 <img width="682" height="673" alt="image" src="https://github.com/user-attachments/assets/438f9a6b-97ae-4904-9724-53c5cdbfc8fe" />
 
