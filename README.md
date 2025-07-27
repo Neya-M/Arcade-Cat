@@ -6,7 +6,11 @@ This is a claw machine where the claw is actually a cat! It will be pretty big, 
 
 Why did I make this? Every year my school has a craft fair and I never sell much ;-; I was wondering "how am I supposed to sell stuff if everyone is making the _same exact thing_ as me??" Well I was already ok in hardware so I decided to make a claw machine!! :D
 
-BOM:
+## Wiring:
+<img width="985" height="733" alt="image" src="https://github.com/user-attachments/assets/3e69b3ee-6f63-4495-99d8-3d982610bd3b" />
+
+
+## BOM:
 
 |Electronic Parts||Other Parts||
 |-|-|-|-|
