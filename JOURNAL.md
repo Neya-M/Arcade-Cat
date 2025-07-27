@@ -3,7 +3,7 @@ title: "Claw Machine"
 author: "Neya"
 description: "Just a claw machine"
 created at: "2025-06-4"
-time spent overall: "9h, 45m"
+time spent overall: "12h, 15m"
 ---
 
 # June 4th: Sketched the motor system
@@ -87,7 +87,7 @@ Screenshots of code are boring so no picture for this one :')
 **Total time spent: ~1h**
 
 
-# July 25 CAD fixes
+# July 25: CAD fixes
 
 fixed up the cad model so you only need 360 degrees to move the claw.
 
@@ -103,3 +103,11 @@ There's also a hole for the servo now.
 <img width="842" height="582" alt="image" src="https://github.com/user-attachments/assets/fd8a3f55-6946-4de9-af8d-2edc0763e56a" />
 
 **Total time spent: ~1h**
+
+# July 25-26: Wiring
+
+made the wiring diagram and prepared this project for shipping!
+
+<img width="940" height="714" alt="image" src="https://github.com/user-attachments/assets/ccde739a-c9c8-4f98-90ce-c4e0084b4dbc" />
+
+**Total time spent: ~1.5h**
