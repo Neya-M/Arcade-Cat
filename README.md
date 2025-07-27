@@ -17,3 +17,4 @@ BOM:
 |3x Motor Drivers (TMC2209)|https://www.aliexpress.us/item/3256809236175649.html OR https://a.co/d/hs2fbK3|Spool|will be made out of cardboard|
 |1x Orpheus Pico|will get from SoM https://summer.hackclub.com/|||
 |1x LED strip|https://www.aliexpress.us/item/2255800625645532.html|||
+|2x Potentiometer|https://www.aliexpress.us/item/3256806569463411.html|||
