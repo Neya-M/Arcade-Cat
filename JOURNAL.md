@@ -3,7 +3,7 @@ title: "Claw Machine"
 author: "Neya"
 description: "Just a claw machine"
 created at: "2025-06-4"
-time spent overall: "13h, 45m"
+time spent overall: "14h"
 ---
 
 # June 4th: Sketched the motor system
@@ -127,3 +127,14 @@ I added the 3mf files and added credits for cad that wasn't mine
 I hope the BOM is supposed to look like this
 
 **Total time spent: ~1.5 hours**
+
+# July 31: Fix BOM
+
+I redid the BOM because it turns out it wasn't supposed to look like that. :(
+
+<img width="761" height="717" alt="image" src="https://github.com/user-attachments/assets/ed899317-e085-4275-be20-df23e532a43f" />
+
+But now I have this nice one :D
+
+**Total time spent: ~15m**
+
