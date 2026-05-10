@@ -23,3 +23,7 @@ I knew so little about hardware and structural design but i'm glad i went for it
 - adapter to connect motor drivers to wall
 - belts
 - step down module (so that i can also power the 5v stuff off of wall
+
+### Pictures :)
+<img width="4032" height="3024" alt="IMG_3342 2" src="https://github.com/user-attachments/assets/baf1d9d6-69d7-41d7-bdb0-29e7e0925cf0" />
+<img width="3024" height="4032" alt="IMG_3368" src="https://github.com/user-attachments/assets/920f6fa9-6096-4ff8-99ef-e619c7aacb8d" />
