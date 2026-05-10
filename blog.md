@@ -18,3 +18,8 @@ I also got my claw to finally work. Turns out that 360 servos means that it rota
 I found out that a lot of my problems were from voltage mismatches, like my servos and joystick needed 5v rather than the 3v that i was connecting them to.
 
 I knew so little about hardware and structural design but i'm glad i went for it and i hope i can continue this soon :)
+
+### Parts needed
+- adapter to connect motor drivers to wall
+- belts
+- step down module (so that i can also power the 5v stuff off of wall
